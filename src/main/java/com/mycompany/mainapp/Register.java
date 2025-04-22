@@ -46,3 +46,7 @@ public class Register {
         return password;
     }
 }
+/*
+Refrence list
+Farrell, J., 2022. Java Programming. Boston: Cengage Learning.
+*/
