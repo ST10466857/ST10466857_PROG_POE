@@ -1,9 +1,10 @@
+package com.mycompany.mainapp;
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package com.mycompany.mainapp;
 
+//(Farrell, 2022)
 public class Register {
     private String username;
     private String password;
