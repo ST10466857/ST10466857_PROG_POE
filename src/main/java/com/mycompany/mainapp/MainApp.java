@@ -1,13 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
 package com.mycompany.mainapp;
 
 /**
  *
  * @author lab_services_student
  */
+
+//(Farrell, 2022)
 import javax.swing.JOptionPane;
 
 public class MainApp {
